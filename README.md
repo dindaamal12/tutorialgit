@@ -10,5 +10,5 @@ Adalah sebuah kumpulan perangkat lunak yang sudah terintegrasi dan digunakan unt
   https://git-scm.com/downloads
   
 2.Lakukan Instalasi
-<img width="377" alt="2" src="https://user-images.githubusercontent.com/92708806/138219445-3b4b7113-0331-4f1e-af6d-b1e7a518121f.PNG">
+<P> <img width="377" alt="2" src="https://user-images.githubusercontent.com/92708806/138219445-3b4b7113-0331-4f1e-af6d-b1e7a518121f.PNG">
 
