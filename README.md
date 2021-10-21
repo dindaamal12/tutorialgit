@@ -13,8 +13,6 @@ https://git-scm.com/downloads
   
   
   
-Selanjutnya menentukan lokasi instalasi. Biarkan saja apa adanya, kemudian klik Next >> sampai muncul sebagai berikut:
-  
   Selanjutnya pemilihan emulator terminal. Pilih saja yang bawah, kemudian klik Next >.
   ![21](https://user-images.githubusercontent.com/92708806/138262820-dfb1e0ed-2f98-47db-bb71-4f82018ee05d.jpg)
 
@@ -61,9 +59,12 @@ Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD ata
   Kemudian akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini. perlu mengisi detail informasi berikut:
 
 Nama Repository : digunakan untuk identitas repository yang dibuat.
+  
 Deskripsi Repository : berfungsi untuk deskripsi dari repository yang dibuat.
+  
 Jenis Repository : jenis repository dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas,
 klik Create Repository.
+  
   ### Buat Folder pada Windows
   Selanjutnya, perlu membuat folder pada local disk komputer. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah di buat.
   ![9](https://user-images.githubusercontent.com/92708806/138265951-8727b0d5-0806-445d-b1f1-6a335f6d4392.JPG)
@@ -89,7 +90,7 @@ Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah beriku
   ### Tambahkan File ke Repository
   Untuk bisa menambahkan file ke repository GitHub,perlu menerapkan langkah-langkah di bawah ini:
 
-Buat file di folder yang sudah dibuat (Eza-Git). Contohnya, di sini membuat file javascript : index.php Buka GitBash lalu masukkan perintah berikut:
+Buat file di folder yang sudah dibuat (Dinda-Git). Contohnya, di sini membuat file javascript : index.php Buka GitBash lalu masukkan perintah berikut:
   
   
 ![28](https://user-images.githubusercontent.com/92708806/138267463-c3437808-4a15-420b-b9d8-2b914daea466.JPG)
