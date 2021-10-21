@@ -6,9 +6,9 @@ Adalah sebuah kumpulan perangkat lunak yang sudah terintegrasi dan digunakan unt
 <p>Merupakan alat pengontrol versi yangbertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
 ### Instalasi GIT
-1.Download GIT pada link berikut:
+Download GIT pada link berikut:
   https://git-scm.com/downloads
   
-2.Lakukan Instalasi
+Lakukan Instalasi
 <P> <img width="377" alt="2" src="https://user-images.githubusercontent.com/92708806/138219445-3b4b7113-0331-4f1e-af6d-b1e7a518121f.PNG">
-
+#### V
